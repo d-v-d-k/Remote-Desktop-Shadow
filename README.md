@@ -1,5 +1,6 @@
 # Remote Desktop Shadow
-A small tool to easily take over 'shadow' a remote or local Remote Desktop session. Also includes a setup window.
+A small tool to easily take over 'shadow' a remote or local Remote Desktop session. Also includes a menu to list all sessions, and a setup window.
+This tool can also be used to manage sessions on Remote Desktop Session Host (RDSH) servers.
 
 README: http://wiki.danit.nl/index.php/Remote_Desktop_Shadow_(Tool)
 
